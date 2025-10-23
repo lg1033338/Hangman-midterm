@@ -1,0 +1,56 @@
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.exe
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.deps.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.runtimeconfig.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.AssemblyInfoInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.AssemblyInfo.cs
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.csproj.CoreCompileInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\refint\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.genruntimeconfig.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\ref\Midterm Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.exe
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.deps.json
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.runtimeconfig.json
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\bin\Debug\net8.0\Midterm Project.pdb
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.AssemblyInfo.cs
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\refint\Midterm Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.pdb
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\Midterm Project.genruntimeconfig.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm Project\obj\Debug\net8.0\ref\Midterm Project.dll
+C:\Users\galin\Downloads\Midterm test\bin\Debug\net8.0\Midterm Project.exe
+C:\Users\galin\Downloads\Midterm test\bin\Debug\net8.0\Midterm Project.deps.json
+C:\Users\galin\Downloads\Midterm test\bin\Debug\net8.0\Midterm Project.runtimeconfig.json
+C:\Users\galin\Downloads\Midterm test\bin\Debug\net8.0\Midterm Project.dll
+C:\Users\galin\Downloads\Midterm test\bin\Debug\net8.0\Midterm Project.pdb
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.AssemblyInfoInputs.cache
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.AssemblyInfo.cs
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.csproj.CoreCompileInputs.cache
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.dll
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\refint\Midterm Project.dll
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.pdb
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\Midterm Project.genruntimeconfig.cache
+C:\Users\galin\Downloads\Midterm test\obj\Debug\net8.0\ref\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\bin\Debug\net8.0\Midterm Project.exe
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\bin\Debug\net8.0\Midterm Project.deps.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\bin\Debug\net8.0\Midterm Project.runtimeconfig.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\bin\Debug\net8.0\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\bin\Debug\net8.0\Midterm Project.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.AssemblyInfoInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.AssemblyInfo.cs
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.csproj.CoreCompileInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\refint\Midterm Project.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\Midterm Project.genruntimeconfig.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Midterm test\obj\Debug\net8.0\ref\Midterm Project.dll
